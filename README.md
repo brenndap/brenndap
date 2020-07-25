@@ -6,6 +6,5 @@
 
 🌱 I’m currently learning about tests in frontend with Cypress
 
-😄 Pronouns: she/her
-
 ⚡ Not so funny fact: I have automatonophobia :scream:
+
