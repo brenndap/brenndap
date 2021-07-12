@@ -4,7 +4,5 @@
 
 :purple_heart: I collaborate as a teacher and volunteer at [@reprograma](https://github.com/reprograma)
 
-🌱 I’m currently learning about tests in frontend with Cypress
-
 ⚡ Not so funny fact: I have automatonophobia :scream:
 
